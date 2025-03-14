@@ -1,18 +1,21 @@
 # Hi there, I'm Wizp3r 👋
 
-I'm a developer and penetration tester with a passion for **web application security** and **IoT pentesting**. I excel in network security and love crafting innovative solutions. 🔒🚀
+I'm a **developer** and **penetration tester** with a passion for **web application security**, **IoT pentesting**, and **network security**. 🔒🚀
 
----
+<br>
 
-## 🚀 Projects
+## 🚀 Projects & Contributions
 
-- **ByteBurst**: A powerful network and web app load testing platform.
-- **ProTech**: An L4 firewall featuring machine learning DDoS defense.
-- **Gandalf Firewall**: A comprehensive L4/L7 Firewall + WAF solution.
-- **SafeRoute**: A 100% anonymous VPN for uncompromised privacy.
-- ...and many more projects that push the boundaries of cybersecurity!
+| Project                | Description                                                                        |
+|------------------------|------------------------------------------------------------------------------------|
+| **ByteBurst**          | A powerful network and web application load-testing platform.                      |
+| **ProTech**            | L4 firewall featuring machine learning for DDoS defense.                           |
+| **Gandalf Firewall**   | Comprehensive L4/L7 firewall + WAF (Web Application Firewall).                     |
+| **SafeRoute**          | A 100% anonymous VPN for uncompromised privacy.                                    |
+| **Dstat Center**       | A tool that discovers open NetData servers,  and displays them in unified graphs.  |
+| ... and more!          | I love pushing the boundaries of cybersecurity innovation.                         |
 
----
+<br>
 
 ## 💻 Skills & Technologies
 
@@ -25,23 +28,20 @@ I'm a developer and penetration tester with a passion for **web application secu
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-0078D7?style=flat&logo=windows&logoColor=white)
 
+I also have experience with various other programming languages & scripting tools — these are just my primary go-tos.
+
 ### Areas of Expertise
 - **Web Application Security** 🌐
 - **IoT Pentesting** 🤖
 - **Network Security** 🔒
 
----
+<br>
 
-## 🔭 Currently Working On
-I'm constantly exploring new techniques in cybersecurity, developing innovative tools, and learning cutting-edge methodologies to stay ahead of evolving threats.
+## 🌐 Connect with Me
+[![Instagram Badge](https://img.shields.io/badge/-Wizp3r-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/Wizp3r)](https://instagram.com/Wizp3r)
+[![Telegram Badge](https://img.shields.io/badge/-Wizp3r-2CA5E0?style=flat&logo=telegram&logoColor=white&link=https://t.me/Wizp3r)](https://t.me/Wizp3r)
 
----
+> *Also open to job opportunities, freelance work, and knowledge sharing.*
 
-## 📫 Connect with Me
-
-- **Instagram:** [@Wizp3r](https://instagram.com/Wizp3r)
-- **Telegram:** [@Wizp3r](https://t.me/Wizp3r)
-
----
-
-*Keep hacking, but always stay ethical. 😉*
+<br>
+> **Keep hacking, but always stay ethical.** 😉
